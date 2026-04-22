@@ -95,7 +95,6 @@ Includes:
 resume-project/
 │
 ├── resume.html
-└── profile.jpg
 ```
 
 ---
